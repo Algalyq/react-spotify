@@ -2,6 +2,8 @@
 
 This is `React-Spotify` - a React front end client that communicates with the Spotify API.
 
+Algalyq will create copy of Spotify using Django Framework
+
 See it in action [here](http://pau1fitz.github.io/react-spotify)
 
 ![alt text](https://github.com/Pau1fitz/react-spotify/blob/master/songs.png "Song")
